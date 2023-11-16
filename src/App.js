@@ -6,6 +6,8 @@ import FullStack from './components/FullStack';
 import DataScience from './components/DataScience';
 import CyberSecurity from './components/CyberSecurity';
 import Career from './components/Career';
+import './App.css'; // Import the CSS file
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   return (
